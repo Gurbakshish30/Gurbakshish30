@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+Welcome to my GitHub profile!
+I'm excited to share my projects with you. Let’s connect and build something great together! 💡✨
+- 💬 Ask me anything about MERN Stack,DSA and Football. 
+- 📫 How to reach me: gurbakshishs30@gmail.com
+- 🌱 I’m currently learning python and Machine Learning.
+
+
 <!--
 **Gurbakshish30/Gurbakshish30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
